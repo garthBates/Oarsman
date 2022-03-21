@@ -1,3 +1,10 @@
+/*
+Programmer: Garth Bates
+Project: Oarsman
+Discription: main.cpp runs the menu for the various application functions
+Date Started: 03/20/2022
+*/
+
 #include <iostream>
 #include <vector>
 #include <string>
