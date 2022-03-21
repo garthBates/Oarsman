@@ -27,5 +27,6 @@ private:
     void openInFile();
     void openOutFile();
     void printResults();
+    void recordEntry();
 
 };
