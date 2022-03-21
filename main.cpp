@@ -1,8 +1,10 @@
 #include <iostream>
 #include <vector>
 #include <string>
+#include "SteadyState.h"
 
 using namespace std;
+
 
 void welcome(void){
     printf("Weclome to OARSMAN!\n");
