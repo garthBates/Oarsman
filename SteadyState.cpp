@@ -6,3 +6,7 @@ Date Started: 03/20/2022
 */
 
 #include "SteadyState.h"
+
+void SteadyState::openInFile(){
+    mCsvStream.open("steadystate.csv");
+}
